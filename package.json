@@ -1,0 +1,29 @@
+{
+  "name": "vue-sample-tpl",
+  "version": "1.0.0",
+  "description": "自定义VUE 项目模板",
+  "main": "main.js",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gongmingzhuang/vue-sample-tpl.git"
+  },
+  "keywords": [
+    "vue-tpl"
+  ],
+  "author": "gongmingzhuang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gongmingzhuang/vue-sample-tpl/issues"
+  },
+  "homepage": "https://github.com/gongmingzhuang/vue-sample-tpl#readme",
+  "dependencies": {
+    "vue": "^2.6.12"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^4.5.12"
+  }
+}
